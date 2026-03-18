@@ -1,4 +1,3 @@
-//Gabrielė Každailytė
 
 import processing.core.PApplet;
 
